@@ -1,0 +1,11 @@
+
+*.v2
+DataLogSingleton/.vs/DataLogSingleton/v17/.suo
+*.json
+*.dll
+*.exe
+*.pdb
+*.cache
+*.BuildWithSkipAnalyzers
+DataLogSingleton/obj/Debug/net6.0/DataLogSingleton.csproj.FileListAbsolute.txt
+DataLogSingleton/obj/Debug/net6.0/DataLogSingleton.GeneratedMSBuildEditorConfig.editorconfig
